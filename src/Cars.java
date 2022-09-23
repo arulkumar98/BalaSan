@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Cars {
+public abstract class Cars {
+    public abstract void TopSpeed();
 }
